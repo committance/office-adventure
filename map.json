@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"TcmLisboaOfficeMeeting"
+                 "value":"committanceRosenmontag"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jamboard.google.com\/d\/1EA5vMsJWwCMalbJkjpkWpN5AC9kCJe15c21RL2qmGKQ\/edit?usp=sharing"
+                 "value":"http:\/\/ks3:9090\/fXFN7Mc_Q3KECTN6vr-SaQ"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -138,7 +138,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
