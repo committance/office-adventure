@@ -80706,11 +80706,11 @@
         {
          "columns":1,
          "firstgid":8945,
-         "image":"..\/Logos\/committance_haken_128_tile.png",
+         "image":"committance_haken_128_tile.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
-         "name":"committance3",
+         "name":"committance_haken",
          "spacing":0,
          "tilecount":1,
          "tileheight":128,
